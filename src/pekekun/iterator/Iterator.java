@@ -1,3 +1,4 @@
+package pekekun.iterator;
 public interface Iterator {
 	public abstract boolean hasNext();
 

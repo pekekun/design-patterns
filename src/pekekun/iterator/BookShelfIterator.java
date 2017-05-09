@@ -1,3 +1,4 @@
+package pekekun.iterator;
 public class BookShelfIterator implements Iterator {
 	private BookShelf bookShelf;
 
