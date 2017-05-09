@@ -1,6 +1,13 @@
 package iterator;
+
 import java.util.*;
 
+/**
+ * ƒƒCƒ“ƒNƒ‰ƒX
+ * 
+ * @author a_matsumoto
+ *
+ */
 public class Main {
 	public static void main(String[] args) {
 		BookShelf bookShelf = new BookShelf(4);
