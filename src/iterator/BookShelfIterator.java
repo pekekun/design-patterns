@@ -1,7 +1,8 @@
 package iterator;
 
 /**
- * BookShelfクラスのスキャンを行う
+ * BookShelfクラスのスキャンを行う <br>
+ * コンクリート・イテレーター
  * 
  * @author a_matsumoto
  *

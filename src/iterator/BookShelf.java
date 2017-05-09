@@ -3,7 +3,8 @@ package iterator;
 import java.util.ArrayList;
 
 /**
- * 本棚を表現するクラス
+ * 本棚を表現するクラス <br>
+ * コンクリート・アグリゲート
  * 
  * @author a_matsumoto
  *
