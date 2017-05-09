@@ -1,4 +1,4 @@
-package pekekun.iterator;
+package iterator;
 public class Book {
 	private String name;
 

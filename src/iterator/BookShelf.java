@@ -1,4 +1,4 @@
-package pekekun.iterator;
+package iterator;
 import java.util.ArrayList;
 
 public class BookShelf implements Aggregate {
