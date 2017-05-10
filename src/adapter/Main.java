@@ -1,8 +1,7 @@
 package adapter;
 
 /**
- * メインクラス. <br>
- * クライアント（依頼者）の振る舞いをする
+ * 繝｡繧､繝ｳ繧ｯ繝ｩ繧ｹ
  * 
  * @author a_matsumoto
  *

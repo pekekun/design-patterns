@@ -1,8 +1,8 @@
 package adapter;
 
 /**
- * プリントバナークラス <br>
- * Adapterの役割
+ * 繝励Μ繝ｳ繝医ヰ繝翫�ｼ繧ｯ繝ｩ繧ｹ <br>
+ * Adapter縺ｨ縺励※縺ｵ繧九∪縺�
  * 
  * 
  * @author a_matsumoto

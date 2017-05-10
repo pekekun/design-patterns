@@ -1,7 +1,7 @@
 package adapter;
 
 /**
- * Printインターフェース
+ * Print繧､繝ｳ繧ｿ繝ｼ繝輔ぉ繝ｼ繧ｹ
  * 
  * @author a_matsumoto
  *
