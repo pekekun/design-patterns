@@ -1,7 +1,8 @@
 package adapter;
 
 /**
- * �o�i�[�N���X. <br>
+ * バナークラス. <br>
+ * Adaptee(適合される側)の振る舞いをする.
  * 
  * @author a_matsumoto
  *
@@ -14,14 +15,14 @@ public class Banner {
 	}
 
 	/**
-	 * ��������J�b�R�ł������ĕ\�����郁�\�b�h
+	 * 文字列をカッコでくくって表示するメソッド
 	 */
 	public void showWithParen() {
 		System.out.println("(" + string + ")");
 	}
 
 	/**
-	 * ������̑O���*��t���ĕ\�����郁�\�b�h
+	 * 文字列の前後に*を付けて表示するメソッド
 	 */
 	public void showWithAster() {
 		System.out.println("*" + string + "*");
